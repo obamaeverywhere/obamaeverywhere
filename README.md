@@ -1,4 +1,4 @@
 # Maheer Tajwar
 
-CSE student and robotics enthusiast.  
-Currently learning ROS2.
+CSE student | Robotics enthusiast | Learning ROS2
+
